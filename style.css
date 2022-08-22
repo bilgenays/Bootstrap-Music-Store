@@ -1,0 +1,20 @@
+.color-red
+    {
+        color: rgb(255, 0, 0);
+}
+.color-orng{
+    color: sandybrown;
+}
+.body{
+    background-color:#E9ECEF;
+}
+
+.pill{
+    background-color: grey; 
+    color: white; 
+    font-size: 9px;
+    
+}
+.lead.text-start.px-5{
+    text-align: center;
+}
